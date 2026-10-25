@@ -1,4 +1,4 @@
-# SecondBrain
+# Multi-Agent-Daily
 
 Your AI-powered second brain — built with Next.js, 3D knowledge graph, and OpenRouter AI.
 
